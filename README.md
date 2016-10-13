@@ -1,7 +1,8 @@
 # LeetCode
 
 
-
+| # |  Solution |
+|---| -------- |
 |90|[Subsets II](90.cpp)|
 |89|[Gray Code](89.cpp)|
 |88|[Merge Sorted Array](88.cpp)|
