@@ -10,7 +10,7 @@
 |86|[Partition List](86.cpp)|
 |85|[Maximal Rectangle](85.cpp)|
 |84|[Largest Rectangle in Histogram](84.cpp)|
-|83|[Remove Duplicates from Sorted List]((83.cpp)|
+|83|[Remove Duplicates from Sorted List](83.cpp)|
 |82|[Remove Duplicates from Sorted List II](82.cpp)|
 |81|[Search in Rotated Sorted Array II](81.cpp)|
 |80|[Remove Duplicates from Sorted Array II](80.cpp)|
@@ -91,5 +91,5 @@
 |5|[Longest Palindromic Substring](5.cpp)|
 |4|[Median of Two Sorted Arrays](4.cpp)|
 |3|[Longest Substring Without Repeating Characters](3.cpp)|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)(2.cpp)|
-|1|[Two Sum](https://leetcode.com/problems/two-sum)(1.cpp)|
+|2|[Add Two Numbers](2.cpp)|
+|1|[Two Sum](1.cpp)|
