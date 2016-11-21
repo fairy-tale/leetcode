@@ -3,6 +3,60 @@
 
 | # |  Solution |
 |---| -------- |
+<!--
+|216|[Combination Sum III](216.cpp)|
+|215|[Kth Largest Element in an Array](215.cpp)|
+|214|[Shortest Palindrome](214.cpp)|
+-->
+|213|[House Robber II](213.cpp)|
+|212|[Word Search II](212.cpp)|
+|211|[Add and Search Word - Data structure design](211.cpp)|
+|210|[Course Schedule II](210.cpp)|
+|209|[Minimum Size Subarray Sum](209.cpp)|
+|208|[Implement Trie (Prefix Tree)](208.cpp)|
+|207|[Course Schedule](207.cpp)|
+|206|[Reverse Linked List](206.cpp)|
+|205|[Isomorphic Strings](205.cpp)|
+|204|[Count Primes](204.cpp)|
+|203|[Remove Linked List Elements](203.cpp)|
+|202|[Happy Number](202.cpp)|
+|201|[Bitwise AND of Numbers Range](201.cpp)|
+|200|[Number of Islands](200.cpp)|
+|199|[Binary Tree Right Side View](199.cpp)|
+|198|[House Robber](198.cpp)|
+|191|[Number of 1 Bits](191.cpp)|
+|190|[Reverse Bits](190.cpp)|
+|189|[Rotate Array](189.cpp)|
+|188|[Best Time to Buy and Sell Stock IV](188.cpp)|
+|187|[Repeated DNA Sequences](187.cpp)|
+<!--|186|[Reverse Words in a String II](186.cpp)|-->
+|179|[Largest Number](179.cpp)|
+|174|[Dungeon Game](174.cpp)|
+|173|[Binary Search Tree Iterator](173.cpp)|
+|172|[Factorial Trailing Zeroes](172.cpp)|
+|171|[Excel Sheet Column Number](171.cpp)|
+<!--|170|[Two Sum III - Data structure design](170.cpp)|-->
+|169|[Majority Element](169.cpp)|
+|168|[Excel Sheet Column Title](168.cpp)|
+|167|[Two Sum II - Input array is sorted](167.cpp)|
+|166|[Fraction to Recurring Decimal](166.cpp)|
+|165|[Compare Version Numbers](165.cpp)|
+|164|[Maximum Gap](164.cpp)|
+<!--|163|[Missing Ranges](163.cpp)|-->
+|162|[Find Peak Element](162.cpp)|
+|161|[One Edit Distance](161.cpp)|
+|160|[Intersection of Two Linked Lists](160.cpp)|
+<!--
+|159|[Longest Substring with At Most Two Distinct Characters](159.cpp)|
+|158|[Read N Characters Given Read4 II - Call multiple times](158.cpp)|
+-->
+<!--|157|[Read N Characters Given Read4](157.cpp)|-->
+<!--|156|[Binary Tree Upside Down](156.cpp)|-->
+|155|[Min Stack](155.cpp)|
+|154|[Find Minimum in Rotated Sorted Array II](154.cpp)|
+|153|[Find Minimum in Rotated Sorted Array](153.cpp)|
+|152|[Maximum Product Subarray](152.cpp)|
+|151|[Reverse Words in a String](151.cpp)|
 |150|[Evaluate Reverse Polish Notation](150.cpp)|
 |149|[Max Points on a Line](149.cpp)|
 |148|[Sort List](148.cpp)|

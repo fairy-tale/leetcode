@@ -21,3 +21,17 @@ public:
 		return dummy->next;
 	}
 };
+
+//pointer to pointer
+class Solution {
+public:
+	ListNode* removeElements(ListNode* head, int val) {
+		ListNode **p = &head;
+		// here we need to use *p!!! since even *p is null, it still has a address.
+		while (*p) {
+			if ((*p)->val == val) *p = (*p)->next;
+			else p = &(*p)->next;
+		}
+		return head;
+	}
+};
